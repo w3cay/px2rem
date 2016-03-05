@@ -5,9 +5,6 @@
   "description": "A short description of your package",
   "keywords": [
   ],
-  "activationCommands": {
-    "atom-workspace": "px2rem:convert"
-  },
   "repository": "https://github.com/atom/px2rem",
   "license": "MIT",
   "engines": {
