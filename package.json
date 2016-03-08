@@ -5,7 +5,7 @@
   "description": "A package that turn your pixels text into rem",
   "keywords": [
   ],
-  "repository": "https://github.com/atom/px2rem",
+  "repository": "https://github.com/shunjinchan/px2rem",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
