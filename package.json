@@ -1,17 +1,15 @@
 {
   "name": "px2rem",
   "main": "./lib/px2rem",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A package that turn your pixels text into rem",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/shunjinchan/px2rem",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "providedServices": {
     "autocomplete.provider": {
       "versions": {
