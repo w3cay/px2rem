@@ -1,8 +1,8 @@
 {
   "name": "px2rem",
   "main": "./lib/px2rem",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "1.0.0",
+  "description": "A package that turn your pixels text into rem",
   "keywords": [
   ],
   "repository": "https://github.com/atom/px2rem",
