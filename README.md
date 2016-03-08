@@ -1,5 +1,5 @@
 # px2rem package
 
-px 转换 rem
+A package that turn your pixels text into rem.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+![A screenshot of your package](2016-03-08 23_05_02.gif)
