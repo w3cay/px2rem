@@ -2,19 +2,19 @@
 'context-menu':
   'atom-text-editor': [
     {
-      'label': 'Convert px2remtest'
-      'command': 'px2remtest:convert'
+      'label': 'Convert pxtorem'
+      'command': 'pxtorem:convert'
     }
   ]
 'menu': [
   {
     'label': 'Packages'
     'submenu': [
-      'label': 'px2remtest'
+      'label': 'pxtorem'
       'submenu': [
         {
           'label': 'Convert'
-          'command': 'px2remtest:convert'
+          'command': 'pxtorem:convert'
         }
       ]
     ]
