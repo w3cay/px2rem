@@ -12,7 +12,9 @@ apm install px2rem
 Or Settingss ➔ Packages ➔ Search for `px2rem`
 
 ## Options
-* `addMark:true`: Add origin pixel value like /* 100/75 */
-* `baseSize:75`: This will change the base size to convert px to rem
-* `Precision:2`: The number of digits to the right of the decimal point
+`addMark:true` Add origin pixel value like /* 100/75 */
+
+`baseSize:75` This will change the base size to convert px to rem
+
+`Precision:2` The number of digits to the right of the decimal point
 
