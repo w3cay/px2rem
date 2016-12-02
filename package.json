@@ -1,7 +1,7 @@
 {
   "name": "pxtorem",
   "main": "./lib/index",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A package that turn your pixels text into rem",
   "keywords": [],
   "repository": "https://github.com/w3cay/pxtorem",
