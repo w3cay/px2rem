@@ -7,9 +7,9 @@ A package that turn your pixels text into rem. origin from [px2rem](https://gith
 ## Install
  With apm:
 ```bash
-apm install px2rem
+apm install pxtorem
 ```
-Or Settingss ➔ Packages ➔ Search for `px2rem`
+Or Settingss ➔ Packages ➔ Search for `pxtorem`
 
 ## Options
 `addMark:true` Add origin pixel value like /* 100/75 */
@@ -17,4 +17,3 @@ Or Settingss ➔ Packages ➔ Search for `px2rem`
 `baseSize:75` This will change the base size to convert px to rem
 
 `Precision:2` The number of digits to the right of the decimal point
-
