@@ -3,7 +3,11 @@
   "main": "./lib/index",
   "version": "0.1.1",
   "description": "A package that turn your pixels text into rem",
-  "keywords": [],
+  "keywords": [
+    "px",
+    "rem",
+    "convert",
+  ],
   "repository": "https://github.com/w3cay/pxtorem",
   "license": "MIT",
   "engines": {
